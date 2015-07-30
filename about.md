@@ -4,10 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-## About Me
-
 I am currently a student studying a bachelour of Engineering Major in Software at Griffith University in Brisbane, Queesnland. I expect to graduate second semester 2016. When I do I would love to find a position that offers me a learning environment where I can surround my self with some of the best in the industry and learn by doing. I would love to go into the mobile development sector of my field, since starting mobile development I have enjoyed every moment and found myself creating small passion projects just to write a few lines of code.
 
 ### Things I Enjoy
