@@ -1,6 +1,6 @@
 ---
 layout: post
-title: init(post: "First Post!")
+title: Hello World
 ---
 
 ### "Hello World!"
